@@ -1,0 +1,8 @@
+#Post data
+POST "localhost:8888/user/signup"
+Content-Type: application/json
+
+{
+  username: "john_doe"
+  
+}
